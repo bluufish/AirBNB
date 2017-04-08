@@ -7,3 +7,5 @@ AirBNB is an online marketplace which enables people to lease or rent out their 
 Included in this project is the steps taken to clean and organize the data, a pre-analysis presentation and the finished Excel sheet with a summary.
 
 The data was gathered from publicly sourced AirBNB data available from http://insideairbnb.com/get-the-data.html
+
+![screenshot]( http://i.imgur.com/me8H5fD.jpg)
