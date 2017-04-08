@@ -10,4 +10,4 @@ The data was gathered from publicly sourced AirBNB data available from http://in
 
 ![screenshot]( http://i.imgur.com/me8H5fD.jpg)
 
-(https://www.google.com "Google's Homepage")
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
