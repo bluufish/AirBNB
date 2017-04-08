@@ -10,4 +10,4 @@ The data was gathered from publicly sourced AirBNB data available from http://in
 
 ![screenshot]( http://i.imgur.com/me8H5fD.jpg)
 
-[Download the files here] (https://github.com/bluufish/AirBNB.git)
+[Download the files here](https://github.com/bluufish/AirBNB.git)
